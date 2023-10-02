@@ -13,6 +13,20 @@ To run the application, the steps are:
 ## References/Resources
 I mostly referred to our recent lessons/activities for this assignment. 
 
+For the shapes, I used MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes) and W3 schools:
+
+* Circle: https://www.w3schools.com/graphics/svg_circle.asp
+
+* Square: https://www.w3schools.com/graphics/svg_rect.asp
+
+* Triangle: https://www.w3schools.com/graphics/svg_polygon.asp 
+
+For NPM Packages:
+
+* Inquirer: https://www.npmjs.com/package/inquirer/v/8.2.4
+
+* File System: https://nodejs.org/docs/latest-v18.x/api/fs.html 
+
 ## URLs submitted
 * My Repo URL: https://github.com/lenzlee/svg-logo-maker
 * Application URL: https://lenzlee.github.io/svg-logo-maker/
