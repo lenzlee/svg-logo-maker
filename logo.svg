@@ -1,1 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><rect x="50" height="200" width="200" fill="black"><text x="150" y="125" font-size="60" text-anchor="middle" fill="white">LW</text></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>Triangle<polygon points="150, 18 244, 182 56, 182" fill="red"/><text x="150" y="130" text-anchor="middle" font-size="50" fill="white">LR</text></g></svg>
