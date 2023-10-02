@@ -30,7 +30,7 @@ For NPM Packages:
 ## URLs submitted
 * My Repo URL: https://github.com/lenzlee/svg-logo-maker
 * Application URL: https://lenzlee.github.io/svg-logo-maker/
-* Video Demo: 
+* Video Demo: https://youtu.be/4oorPTlP0aQ 
 
 ## My Application Screenshots
 ![alt text](./screenshot-svg-logo-square.png)
@@ -39,4 +39,7 @@ For NPM Packages:
 
 ![alt text](./screenshot-svg-logo-triangle.png)
 
+![alt text](./screenshot-terminal.png)
+
 ## Link to Demo Video
+https://youtu.be/4oorPTlP0aQ 
