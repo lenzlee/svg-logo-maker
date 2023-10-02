@@ -7,8 +7,8 @@ In this project, we were asked to build an SVG Logo Maker where a user answers a
 ## How to Use this App:
 To run the application, the steps are:
 1. Run node index.js in your terminal
-2. Answer all the questions
-3. The SVG file will be generated
+2. Answer all 4 questions
+3. The logo.svg file will be generated
 
 ## References/Resources
 I mostly referred to our recent lessons/activities for this assignment. 
@@ -18,7 +18,11 @@ I mostly referred to our recent lessons/activities for this assignment.
 * Application URL: https://lenzlee.github.io/svg-logo-maker/
 * Video Demo: 
 
-## My Application Screenshot
-![alt text]()
+## My Application Screenshots
+![alt text](./screenshot-svg-logo-square.png)
+
+![alt text](./screenshot-svg-logo-circle.png)
+
+![alt text](./screenshot-svg-logo-triangle.png)
 
 ## Link to Demo Video
